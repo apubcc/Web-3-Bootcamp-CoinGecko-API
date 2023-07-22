@@ -25,9 +25,9 @@ This guide will walk you through the steps to create a Discord bot that fetches 
 
 
 ## What you can build using CG API
-1. Crypto Price Bot (using /)
+1. Crypto Price Bot (using /simple/price)
 2. Trending Coins Bot (using /search/trending)
-3. Exchanges + Derivatives Exchanges List Bot (using /)
+3. Exchanges + Derivatives Exchanges List Bot (using /exchanges + /derivative/exchanges)
 4. DeFi Bot (using /global/decentralized_finance_defi) + defillama API + GeckoTerminal API
 5. NFT Bot (using /nft/list)
 
