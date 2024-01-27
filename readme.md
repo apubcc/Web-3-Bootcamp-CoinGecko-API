@@ -40,7 +40,7 @@ Example:
 <br>
 https://api.coingecko.com/api/v3/ping
 <br>
-https://api.coingecko.com/api/v3/coins/markets?vs_currency=usd&ids=bitcoin&x_cg_pro_api_key=YOUR_API_KEY
+https://api.coingecko.com/api/v3/coins/markets?vs_currency=usd&ids=bitcoin&x_cg_demo_api_key=YOUR_API_KEY
 
 
 **Pro API**
